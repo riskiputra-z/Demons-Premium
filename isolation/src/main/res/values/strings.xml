@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Demons Premium</string>
+    <string name="service_name">Isolation Service</string>
+    <string name="isolation_enabled">App isolation enabled</string>
+    <string name="isolation_disabled">App isolation disabled</string>
+</resources>
